@@ -4,6 +4,7 @@ Zadatak: Sustav upravljanja osiguranjem za potrebe kolegija Programiranje za web
 Uradio: Vedran Štimac
 Projekt sadrži
 https://github.com/DankPsycho/Sustav-upravljanja-osiguranjem-finals
+
 *
 Django projekt i aplikaciju
 Model koji sadrži barem 3 entiteta (unutar modela voditi računa različitim tipovima podataka)
@@ -13,4 +14,3 @@ Prikaz generiranih podataka za svaki entitet u modelu pomoću generičkih pogled
 Unos novih vrijednosti u bazu
 Prikaz i pretraga postojećih vrijednosti iz baze
 *
-# Sustav-upravljanja-osiguranjem
