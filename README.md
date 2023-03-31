@@ -3,7 +3,7 @@
 Zadatak: Sustav upravljanja osiguranjem za potrebe kolegija Programiranje za web.
 Uradio: Vedran Štimac
 Projekt sadrži
-https://github.com/DankPsycho/Sustav-upravljanja-osiguranjem-finals
+https://github.com/DankPsycho/Sustav-upravljanja-osiguranjem-final
 
 *
 Django projekt i aplikaciju
